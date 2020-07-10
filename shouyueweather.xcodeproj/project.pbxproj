@@ -13,6 +13,7 @@
 		9D4F62DF24B80A300099C345 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D4F62DE24B80A300099C345 /* Assets.xcassets */; };
 		9D4F62E224B80A300099C345 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D4F62E124B80A300099C345 /* Preview Assets.xcassets */; };
 		9D4F62E524B80A300099C345 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D4F62E324B80A300099C345 /* LaunchScreen.storyboard */; };
+		9D4F62ED24B80B320099C345 /* Homepage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D4F62EC24B80B320099C345 /* Homepage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9D4F62E124B80A300099C345 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9D4F62E424B80A300099C345 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D4F62E624B80A300099C345 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D4F62EC24B80B320099C345 /* Homepage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homepage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9D4F62D824B80A2F0099C345 /* AppDelegate.swift */,
 				9D4F62DA24B80A2F0099C345 /* SceneDelegate.swift */,
 				9D4F62DC24B80A2F0099C345 /* ContentView.swift */,
+				9D4F62EC24B80B320099C345 /* Homepage.swift */,
 				9D4F62DE24B80A300099C345 /* Assets.xcassets */,
 				9D4F62E324B80A300099C345 /* LaunchScreen.storyboard */,
 				9D4F62E624B80A300099C345 /* Info.plist */,
@@ -149,6 +152,7 @@
 				9D4F62D924B80A2F0099C345 /* AppDelegate.swift in Sources */,
 				9D4F62DB24B80A2F0099C345 /* SceneDelegate.swift in Sources */,
 				9D4F62DD24B80A2F0099C345 /* ContentView.swift in Sources */,
+				9D4F62ED24B80B320099C345 /* Homepage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
